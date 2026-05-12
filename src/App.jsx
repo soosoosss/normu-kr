@@ -594,7 +594,7 @@ const RoleLanding = ({ onSelect, waitCount }) => {
 
                   <div style={{ border: "1px solid #6EE7B7", borderRadius: 12, overflow: "hidden" }}>
                     <div style={{ background: "#D1FAE5", padding: "10px 16px", fontSize: 13, fontWeight: 700, color: "#065F46" }}>
-                      ⭐ 평판이 기그경제를 규율할 수 있는가? — Benson et al. (Management Science, 2019)
+                      ⭐ 평판이 긱 경제를 규율할 수 있는가? — Benson et al. (Management Science, 2019)
                     </div>
                     <div style={{ padding: "12px 16px", fontSize: 12, color: "#475569", lineHeight: 1.7 }}>
                       Amazon Mechanical Turk 실험: <strong>사장 평점 공개 시 사장이 계약을 더 잘 이행</strong>합니다.<br/>
