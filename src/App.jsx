@@ -461,7 +461,7 @@ const RoleLanding = ({ onSelect, waitCount }) => {
           onMouseEnter={e => { e.currentTarget.style.transform = "translateY(-4px)"; e.currentTarget.style.boxShadow = "0 20px 48px rgba(20,184,166,.4)" }}
           onMouseLeave={e => { e.currentTarget.style.transform = ""; e.currentTarget.style.boxShadow = "" }}>
           <div style={{ fontSize: 38, marginBottom: 14 }}>🤝</div>
-          <div style={{ fontSize: 22, fontWeight: 800, color: "#FFFFFF", marginBottom: 8 }}>일하는분들</div>
+          <div style={{ fontSize: 22, fontWeight: 800, color: "#FFFFFF", marginBottom: 8 }}>일하는 우리 👋</div>
           <div style={{ fontSize: 14, color: "#99F6E4", lineHeight: 1.65, marginBottom: 18 }}>
             내 계약서 괜찮을까?<br />임금·초과근무·야간 권리 확인<br />계약서 빨간펜 첨삭 서비스
           </div>
