@@ -641,7 +641,7 @@ const RoleLanding = ({ onSelect, waitCount }) => {
               {/* ── 연락처 ── */}
               <div style={{ textAlign: "center", paddingTop: 8, borderTop: "1px solid #E2E8F0" }}>
                 <div style={{ fontSize: 12, color: "#64748B", marginBottom: 4 }}>
-                  📧 contact@normu.kr &nbsp;|&nbsp; 🔬 정책연구 협력 환영
+                  📧 sookim@snu.ac.kr &nbsp;|&nbsp; 🔬 정책연구 협력 환영
                 </div>
                 <div style={{ fontSize: 11, color: "#94A3B8" }}>
                   고용노동부 공공데이터 활용 경진대회 출품작 | 2026
