@@ -1689,7 +1689,7 @@ const WorkerApp = ({ onBack }) => {
       <div style={{ maxWidth: 560, margin: "0 auto", padding: "32px 20px 80px" }}>
         <div className="fu">
           <div style={{ background: `linear-gradient(135deg,${c.teal},#059669)`, borderRadius: 16, padding: "20px 22px", marginBottom: 28 }}>
-            <div style={{ fontSize: 17, fontWeight: 800, color: "#fff", marginBottom: 5 }}>무료 임금 확인 알려드립니다</div>
+            <div style={{ fontSize: 17, fontWeight: 800, color: "#fff", marginBottom: 5 }}>내 계약서 톺아보기</div>
             <div style={{ fontSize: 13, color: "rgba(255,255,255,.8)", lineHeight: 1.65 }}>
               최저임금 확인을 입력하여 더 많은 권리 분석을 해드리겠습니다.<br />
               <span style={{ fontWeight: 600, color: "#A7F3D0" }}>모든 정보는 익명으로 처리됩니다.</span>
