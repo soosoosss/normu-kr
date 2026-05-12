@@ -778,7 +778,8 @@ const BossApp = ({ onBack }) => {
 
           <div style={{ display: "flex", flexDirection: "column", gap: 16 }}>
 
-            {/* 사업자등록번호 → 재무부 추적 + 구세청 기반 */}
+            {/* 사업자등록번호 (선택 · 입력 시 업종 자동 인식)  →
+"입력하면 업종을 자동으로 불러옵니다. 동일 사업장의 시간별 변화를 익명으로 추적합니다. 원본 번호는 저장되지 않습니다." */}
             <div>
               <label style={{ fontSize: 13, fontWeight: 600, color: c.g700, display: "block", marginBottom: 7 }}>
                 사업자등록번호
