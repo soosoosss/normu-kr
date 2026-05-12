@@ -783,7 +783,7 @@ const BossApp = ({ onBack }) => {
             <div>
               <label style={{ fontSize: 13, fontWeight: 600, color: c.g700, display: "block", marginBottom: 7 }}>
                 사업자등록번호
-                <span style={{ fontSize: 11, fontWeight: 400, color: c.g500, marginLeft: 6 }}>(선택 · 재무부 시스템 연동)</span>
+                <span style={{ fontSize: 11, fontWeight: 400, color: c.g500, marginLeft: 6 }}>(선택)</span>
               </label>
               <input value={profile.bizNo} onChange={e => setP("bizNo", e.target.value)}
                 placeholder="000-00-00000" style={inp} />
